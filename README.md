@@ -28,8 +28,14 @@ Done!
 
 # Some example
 below are screenshot of the demo app
-![filtered screen shot](https://github.com/KePeng1019/android_renderscript_lut/app/picturesample/1.png)
-![filtered screen shot](https://github.com/KePeng1019/android_renderscript_lut/app/picturesample/2.png)
-![filtered screen shot](https://github.com/KePeng1019/android_renderscript_lut/app/picturesample/3.png)
-![filtered screen shot](https://github.com/KePeng1019/android_renderscript_lut/app/picturesample/4.png)
-![filtered screen shot](https://github.com/KePeng1019/android_renderscript_lut/app/picturesample/5.png)
+
+## Lut file
+<img src="https://github.com/KePeng1019/android_renderscript_lut/blob/master/app/src/main/res/drawable/lut_standard.png" height="1280">
+
+## Filter result
+
+<img src="https://github.com/KePeng1019/android_renderscript_lut/blob/master/app/picturesample/2.png" width="220">
+<img src="https://github.com/KePeng1019/android_renderscript_lut/blob/master/app/picturesample/3.png" width="220">
+<img src="https://github.com/KePeng1019/android_renderscript_lut/blob/master/app/picturesample/4.png" width="220">
+<img src="https://github.com/KePeng1019/android_renderscript_lut/blob/master/app/picturesample/5.png" width="220">
+
