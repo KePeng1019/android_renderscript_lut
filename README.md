@@ -20,7 +20,7 @@ this project assume you provide some format lut filter bitmap with 64 width and 
 from 0 to 255 and height grow the G channel form 0 to 255 in evevry rectangle. with rectangle count up on y dimension the B chanel from 0 to 255.
 
 this  will do every thing
-```
+```kotlin
 val fasterLut = FasterLut()
 val result = fasterLut.fasterLut(yourBitmap, yourFilter, context)
 ```
