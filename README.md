@@ -15,7 +15,7 @@ uchar4 RS_KERNEL lutFilter(uchar4 in,uint32_t x, uint32_t y) {
 }
 ```
 ## FasterLut.kt
-###provide both lut filter and cube file parse function.
+### provide both lut filter and cube file parse function.
 this project assume you provide some format lut filter bitmap with 64 width and 64 * 64 height, with width grow the R channel
 from 0 to 255 and height grow the G channel form 0 to 255 in evevry rectangle. with rectangle count up on y dimension the B chanel from 0 to 255.
 
